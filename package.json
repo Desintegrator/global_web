@@ -1,0 +1,33 @@
+{
+  "_args": [
+    [
+      "g@https://npm.eigenframe.com/g/!global",
+      "/Users/mac/projects/sbdt"
+    ]
+  ],
+  "_from": "g@https://npm.eigenframe.com/g/!global",
+  "_id": "g@https://npm.eigenframe.com/g/!global",
+  "_inBundle": false,
+  "_integrity": "sha512-9/U18X7+48YO3mG3GR2yKi7fqBFrnUWB0HTtF0AOxHc5jh+3xjQVaRKwZaVsxz2ST1ZOay+KVU7qtUaOyFZvag==",
+  "_location": "/g",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "g@https://npm.eigenframe.com/g/!global",
+    "name": "g",
+    "escapedName": "g",
+    "rawSpec": "https://npm.eigenframe.com/g/!global",
+    "saveSpec": "https://npm.eigenframe.com/g/!global",
+    "fetchSpec": "https://npm.eigenframe.com/g/!global"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://npm.eigenframe.com/g/!global",
+  "_where": "/Users/mac/projects/sbdt",
+  "main": "./index.js",
+  "name": "g",
+  "private": true,
+  "version": "1.0.0"
+}
